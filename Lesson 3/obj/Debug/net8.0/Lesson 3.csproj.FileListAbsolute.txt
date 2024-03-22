@@ -1,0 +1,71 @@
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\appsettings.Development.json
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\appsettings.json
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Lesson 3.exe
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Lesson 3.deps.json
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Lesson 3.runtimeconfig.json
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Lesson 3.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Lesson 3.pdb
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NewProjects\Web API\Lesson 3\obj\Debug\net8.0\Lesson 3.csproj.AssemblyReference.cache
+D:\NewProjects\Web API\Lesson 3\obj\Debug\net8.0\Lesson 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewProjects\Web API\Lesson 3\obj\Debug\net8.0\Lesson 3.AssemblyInfoInputs.cache
+D:\NewProjects\Web API\Lesson 3\obj\Debug\net8.0\Lesson 3.AssemblyInfo.cs
+D:\NewProjects\Web API\Lesson 3\obj\Debug\net8.0\Lesson 3.csproj.CoreCompileInputs.cache
+D:\NewProjects\Web API\Lesson 3\obj\Debug\net8.0\Lesson 3.MvcApplicationPartsAssemblyInfo.cs
+D:\NewProjects\Web API\Lesson 3\obj\Debug\net8.0\Lesson 3.MvcApplicationPartsAssemblyInfo.cache
+D:\NewProjects\Web API\Lesson 3\obj\Debug\net8.0\staticwebassets.build.json
+D:\NewProjects\Web API\Lesson 3\obj\Debug\net8.0\staticwebassets.development.json
+D:\NewProjects\Web API\Lesson 3\obj\Debug\net8.0\staticwebassets\msbuild.Lesson 3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NewProjects\Web API\Lesson 3\obj\Debug\net8.0\staticwebassets\msbuild.build.Lesson 3.props
+D:\NewProjects\Web API\Lesson 3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lesson 3.props
+D:\NewProjects\Web API\Lesson 3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lesson 3.props
+D:\NewProjects\Web API\Lesson 3\obj\Debug\net8.0\staticwebassets.pack.json
+D:\NewProjects\Web API\Lesson 3\obj\Debug\net8.0\scopedcss\bundle\Lesson 3.styles.css
+D:\NewProjects\Web API\Lesson 3\obj\Debug\net8.0\Lesson 3.csproj.CopyComplete
+D:\NewProjects\Web API\Lesson 3\obj\Debug\net8.0\Lesson 3.dll
+D:\NewProjects\Web API\Lesson 3\obj\Debug\net8.0\refint\Lesson 3.dll
+D:\NewProjects\Web API\Lesson 3\obj\Debug\net8.0\Lesson 3.pdb
+D:\NewProjects\Web API\Lesson 3\obj\Debug\net8.0\Lesson 3.genruntimeconfig.cache
+D:\NewProjects\Web API\Lesson 3\obj\Debug\net8.0\ref\Lesson 3.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Azure.Core.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Azure.Identity.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\System.Memory.Data.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NewProjects\Web API\Lesson 3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

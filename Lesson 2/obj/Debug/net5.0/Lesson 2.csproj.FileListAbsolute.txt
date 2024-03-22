@@ -1,0 +1,33 @@
+D:\NewProjects\Web API\Lesson 2\bin\Debug\net5.0\appsettings.Development.json
+D:\NewProjects\Web API\Lesson 2\bin\Debug\net5.0\appsettings.json
+D:\NewProjects\Web API\Lesson 2\bin\Debug\net5.0\Lesson 2.exe
+D:\NewProjects\Web API\Lesson 2\bin\Debug\net5.0\Lesson 2.deps.json
+D:\NewProjects\Web API\Lesson 2\bin\Debug\net5.0\Lesson 2.runtimeconfig.json
+D:\NewProjects\Web API\Lesson 2\bin\Debug\net5.0\Lesson 2.runtimeconfig.dev.json
+D:\NewProjects\Web API\Lesson 2\bin\Debug\net5.0\Lesson 2.dll
+D:\NewProjects\Web API\Lesson 2\bin\Debug\net5.0\Lesson 2.pdb
+D:\NewProjects\Web API\Lesson 2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\NewProjects\Web API\Lesson 2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NewProjects\Web API\Lesson 2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NewProjects\Web API\Lesson 2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NewProjects\Web API\Lesson 2\obj\Debug\net5.0\Lesson 2.csproj.AssemblyReference.cache
+D:\NewProjects\Web API\Lesson 2\obj\Debug\net5.0\Lesson 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewProjects\Web API\Lesson 2\obj\Debug\net5.0\Lesson 2.AssemblyInfoInputs.cache
+D:\NewProjects\Web API\Lesson 2\obj\Debug\net5.0\Lesson 2.AssemblyInfo.cs
+D:\NewProjects\Web API\Lesson 2\obj\Debug\net5.0\Lesson 2.csproj.CoreCompileInputs.cache
+D:\NewProjects\Web API\Lesson 2\obj\Debug\net5.0\Lesson 2.MvcApplicationPartsAssemblyInfo.cs
+D:\NewProjects\Web API\Lesson 2\obj\Debug\net5.0\Lesson 2.MvcApplicationPartsAssemblyInfo.cache
+D:\NewProjects\Web API\Lesson 2\obj\Debug\net5.0\Lesson 2.RazorTargetAssemblyInfo.cache
+D:\NewProjects\Web API\Lesson 2\obj\Debug\net5.0\scopedcss\bundle\Lesson 2.styles.css
+D:\NewProjects\Web API\Lesson 2\obj\Debug\net5.0\staticwebassets\Lesson 2.StaticWebAssets.Manifest.cache
+D:\NewProjects\Web API\Lesson 2\obj\Debug\net5.0\staticwebassets\Lesson 2.StaticWebAssets.Pack.cache
+D:\NewProjects\Web API\Lesson 2\obj\Debug\net5.0\staticwebassets\msbuild.Lesson 2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NewProjects\Web API\Lesson 2\obj\Debug\net5.0\staticwebassets\msbuild.build.Lesson 2.props
+D:\NewProjects\Web API\Lesson 2\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Lesson 2.props
+D:\NewProjects\Web API\Lesson 2\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Lesson 2.props
+D:\NewProjects\Web API\Lesson 2\obj\Debug\net5.0\Lesson 2.csproj.CopyComplete
+D:\NewProjects\Web API\Lesson 2\obj\Debug\net5.0\Lesson 2.dll
+D:\NewProjects\Web API\Lesson 2\obj\Debug\net5.0\refint\Lesson 2.dll
+D:\NewProjects\Web API\Lesson 2\obj\Debug\net5.0\Lesson 2.pdb
+D:\NewProjects\Web API\Lesson 2\obj\Debug\net5.0\Lesson 2.genruntimeconfig.cache
+D:\NewProjects\Web API\Lesson 2\obj\Debug\net5.0\ref\Lesson 2.dll
